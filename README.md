@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @JuganD
+- 👀 I’m interested in .NET ecosystem, full-stack web development, microservices, Azure and tweaking Android until it breaks :P
+- 🌱 I’m currently learning Go
